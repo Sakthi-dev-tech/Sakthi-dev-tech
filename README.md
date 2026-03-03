@@ -7,7 +7,7 @@
   <a href="https://x.com/DormantSakthi" target="_blank">
     <img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://linktr.ee/adormantsakthi" target="_blank">
+  <a href="YOUR_LINKTREE_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
@@ -41,6 +41,7 @@ I'm a computer science student and indie software developer with a deep focus on
 ### 💡 Featured Projects & Research
 
 * 🎬 **[ScreenX](https://screenx.app)** - A powerful, browser-based media editor designed to create highly engaging screen recordings effortlessly.
+* 🎨 **[StashCanvas](https://www.stashcanvas.com)** - A creative, visual workspace tool designed for seamless organisation and ideas. *(Closed Source)*
 * 🗣️ **[AI-Speech-Emotion-Recognition](https://github.com/Sakthi-dev-tech/AI-Speech-Emotion-Recognition)** - An AI engineering pipeline focused on audio processing and pattern recognition to classify human emotion from speech. *(Python)*
 * 🧠 **[Denoising-Diffusion-Probabilistic-Model](https://github.com/Sakthi-dev-tech/Denoising-Diffusion-Probabilistic-Model)** - Implementation of generative AI architectures to deeply understand diffusion models and computer vision fundamentals. *(Python)*
 * 🍿 **[SwipeForMovie](https://github.com/Sakthi-dev-tech/SwipeForMovie)** - A Tinder-style movie recommendation app that learns user tastes and leverages knowledge of popular media to suggest films. *(TypeScript)*
@@ -50,15 +51,9 @@ I'm a computer science student and indie software developer with a deep focus on
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakthi-dev-tech&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Sakthi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakthi-dev-tech&theme=radium&hide_border=true" alt="Sakthi's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-dev-tech&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="60%" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakthi-dev-tech&theme=dark&hide_border=true" alt="Sakthi's GitHub Streak" />
+</div>
 ---
 <div align="center">
   <i>Let's connect! Reach out on <a href="https://x.com/DormantSakthi">X</a> to chat about AI, software engineering, or indie development.</i>
