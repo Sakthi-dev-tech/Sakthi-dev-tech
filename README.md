@@ -41,7 +41,7 @@ I'm a computer science student and indie software developer with a deep focus on
 ### 💡 Featured Projects & Research
 
 * 🎬 **[ScreenX](https://screenx.app)** - A powerful, browser-based media editor designed to create highly engaging screen recordings effortlessly.
-* 🎨 **[StashCanvas](https://www.stashcanvas.com)** - A creative, visual workspace tool designed for seamless organisation and ideas. *(Closed Source)*
+* 🎨 **[StashCanvas](https://www.stashcanvas.com)** - A creative, visual workspace tool designed for seamless organisation and ideas.
 * 🗣️ **[AI-Speech-Emotion-Recognition](https://github.com/Sakthi-dev-tech/AI-Speech-Emotion-Recognition)** - An AI engineering pipeline focused on audio processing and pattern recognition to classify human emotion from speech. *(Python)*
 * 🧠 **[Denoising-Diffusion-Probabilistic-Model](https://github.com/Sakthi-dev-tech/Denoising-Diffusion-Probabilistic-Model)** - Implementation of generative AI architectures to deeply understand diffusion models and computer vision fundamentals. *(Python)*
 * 🍿 **[SwipeForMovie](https://github.com/Sakthi-dev-tech/SwipeForMovie)** - A Tinder-style movie recommendation app that learns user tastes and leverages knowledge of popular media to suggest films. *(TypeScript)*
