@@ -7,7 +7,7 @@
   <a href="https://x.com/DormantSakthi" target="_blank">
     <img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="YOUR_LINKTREE_URL_HERE" target="_blank">
+  <a href="https://linktr.ee/adormantsakthi" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
