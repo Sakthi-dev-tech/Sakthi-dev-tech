@@ -18,7 +18,7 @@
 
 I'm a computer science student and indie software developer with a deep focus on **AI Engineering**. I love bridging the gap between mathematical foundations and practical software, continuously exploring the intricacies of Machine Learning, Computer Vision, and Audio Processing. 
 
-- 🔭 Currently building and scaling **ScreenX**, a browser-based media editor alternative to Screen Studio.
+- 🔭 Currently building and scaling **StashCanvas**, an online AI IDE that uses a canvas to interact with your AI models.
 - 🧠 Diving deep into **Calculus**, **Linear Algebra**, and **Data Structures & Algorithms** to strengthen my AI engineering fundamentals.
 - 💻 Developing full-stack and AI-driven applications using **Golang**, **Python**, **Next.js**, and **React**.
 - 🚀 Always open to discussing SaaS growth, indie hacking, and innovative ML architectures.
